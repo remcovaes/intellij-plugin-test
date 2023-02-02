@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.remcovaes.intellijplugintest.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.remcovaes.intellijplugintest.MyBundle
 
 class MyApplicationService {
 

@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.remcovaes.intellijplugintest.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.remcovaes.intellijplugintest.MyBundle
 
 class MyProjectService(project: Project) {
 
